@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.wrap {
+    width: 100%;
+    height: 100%;
+}
+
+.wrap div {
+    width: 100%;
+}
+
+.wrap div h2 {
+    width: 100%;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.wrap div img {
+    width: 100%;
+    height: auto;
+}
+
+.wrap div p {
+    color: orange;
+    font-size: 15px;
+}
